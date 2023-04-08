@@ -1,0 +1,57 @@
+*{
+
+    font-family: 'Roboto Slab', serif;
+}
+
+#ana-kutu{
+    background-color: rgb(65, 97, 86);
+}
+
+.sol-kutu{
+    color: white;
+    padding-top: 2rem;
+}
+
+.nav-bar-alt{
+    display: flex;
+    background-color: rgb(29, 29, 29);
+    gap: 2rem;
+    padding: 10px 10px;
+
+}
+
+.nav-bar-alt-yazi{
+    color: white;
+}
+
+.resim1{
+    width: 100%;
+}
+
+#sec2{
+    padding-top: 2rem;
+}
+ .arka-planli{
+    background-color: white;
+ }
+
+ .bordır1 img {
+    border-width: 1rem  ;
+ }
+
+ .renklendir{
+    color: red;
+ }
+
+ .kutu12 img{
+    width: 100%;
+ }
+
+ .futır{
+    background-color: rgb(228, 228, 228);
+ }
+
+ .futır2{
+    background-color: rgb(46, 46, 46);
+    color: white;
+ }
